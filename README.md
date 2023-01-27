@@ -3,7 +3,7 @@
 ## Table des matières :
 1. [Data](#data)
 2. [Description](#description)
-3. [Photos](#photo)
+3. [Photos](#photos)
 
 ## Data
 
