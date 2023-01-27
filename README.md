@@ -1,4 +1,4 @@
-# Automatisation for  articles' classification wiht their description or photo
+# Automatisation for  articles' classification with their description or photo
 
 ## Table des matières :
 1. [Data](#data)
@@ -18,7 +18,8 @@ We will see how to process the description to extract only valuable words and pr
 
 EDA :
 * Explore the data
-* 
+* Select column
+* Extract category
 
 Preprocessing :
 * Stop words
